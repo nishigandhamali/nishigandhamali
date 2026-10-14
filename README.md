@@ -11,7 +11,6 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishigandham/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nishig01.github.io/Portfolio/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nismal1u/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nishigandhamali4@gmail.com)
  
 </div>
@@ -25,8 +24,7 @@ nishigandha = {
     "education":   "M.S. Computer Science — University of Florida (GPA 3.8)",
     "prev_work":   "Software Engineer @ Siemens Digital Industries Software (4 yrs)",
     "focus":       ["Full-Stack Engineering", "Machine Learning", "AI/ML Systems"],
-    "currently":   ["Trustworthy ML", "Distributed ML", "ML coursework @ UF"],
-    "fun_fact":    "B.Tech Mechanical Eng → pivoted to CS → now building AI tools"
+    "currently":   ["Trustworthy ML", "Distributed ML", "ML coursework @ UF"]
 }
 ```
  
@@ -68,8 +66,7 @@ nishigandha = {
  
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🎬 **MovieSuggestionAI** | AI-powered movie recommendation app using OMDB API | React · JavaScript · REST API |
-| 🔒 **DP-SGD Research** | Privacy-preserving ML training with differential privacy | Python · PyTorch |
+| 🔒 **DP-SGD** | Privacy-preserving ML training with differential privacy | Python · PyTorch |
 | 🩺 **Diabetic Retinopathy Detection** | CNN-based classifier for medical image diagnosis | Python · TensorFlow · CNN |
 | 📄 **RAG PDF Tool** | GPT-4 + LangChain pipeline for intelligent document Q&A | Python · LangChain · GPT-4 |
  
