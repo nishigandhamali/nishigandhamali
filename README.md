@@ -114,6 +114,26 @@ My research spans trustworthy machine learning, computer vision, medical imaging
 
 Publication venues and paper links will be added as they become publicly available.
 
+### Agricultural desk-review sources — Kenya
+
+Reference documents and data services for the agricultural needs-assessment research described above.
+
+<details>
+<summary>Policy, plant-health, project, and data references</summary>
+
+- [Emergency Locust Response Project — Project Implementation Manual](https://elrp.go.ke/sites/default/files/2024-04/ELRP%20PIM%20Original.pdf)
+- [FAOLEX — Kenya source document (ken232769)](https://faolex.fao.org/docs/pdf/ken232769.pdf)
+- [KEPHIS — Phytosanitary Services](https://kephis.go.ke/phytosanitary-services)
+- [KEPHIS — Strategic Plan 2023–2027](https://kephis.go.ke/sites/default/files/2024-10/KEPHIS%20-%20Strategic%20Plan%202023%20-%202027_Full%20Version.pdf)
+- [National Agroecology Strategy for Food System Transformation 2024–2033](https://kilimo.go.ke/wp-content/uploads/2024/11/National-Agroecology-Strategy-for-Food-System-Transformation-2024-2033.pdf)
+- [Agricultural Sector Transformation and Growth Strategy 2019–2029](https://faolex.fao.org/docs/pdf/ken189053.pdf) · [UNEP LEAP record](https://leap.unep.org/en/countries/ke/national-legislation/agricultural-sector-transformation-and-growth-strategy-astgs)
+- [NAVCDP — Integrated Pests Management Framework](https://navcdp.go.ke/sites/default/files/2026-03/NAVCDP%20Integrated%20Pests%20Management%20Framework.pdf) · [Project instruments](https://navcdp.go.ke/project-instruments)
+- [USDA FAS — Kenya FAIRS Country Report Annual, KE2026-0012](https://www.fas.usda.gov/data/gain-report/2026/06/FAIRS%20Country%20Report%20Annual_Nairobi_Kenya_KE2026-0012.pdf)
+- [FAOSTAT API](https://faostatservices.fao.org/api/v1)
+- [UN Comtrade API](https://comtradeapi.un.org)
+
+</details>
+
 ### Project reports
 
 - [**CDN Optimization — Technical Report (PDF)**](https://github.com/nishigandhamali/CDN-Optimization/blob/main/Project2_Report.pdf) · [Code and experiments](https://github.com/nishigandhamali/CDN-Optimization)
