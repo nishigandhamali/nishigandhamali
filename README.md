@@ -77,6 +77,8 @@ nishigandha = {
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
+| [**Privany**](https://devpost.com/software/privany) | Chrome extension that checks whether a site keeps its privacy promises: cookie tests with and without the Global Privacy Control signal, a rule-based policy reader with verified quotes, and personal no-goes. | Chrome MV3 · React · TypeScript · Express · Puppeteer |
+| [**EchoCrime**](https://echocrime.onrender.com/) | Third-person 3D detective mystery game. [Source](https://github.com/nishigandhamali/EchoCrime) | React Three Fiber · Three.js |
 | [**DanceIQ / Teach Me Dance**](https://github.com/nishigandhamali/Teach_Me_Dance) | Dance-performance comparison app for movement, timing, and posture feedback. [Computer-vision implementation](https://github.com/nishigandhamali/Multi_label_Object_Recognition) includes pose extraction and video analysis. | React · TypeScript · FastAPI · YOLOv8 · MediaPipe |
 | [**The Intelligent Bistro**](https://github.com/nishigandhamali/The_Intelligent_Bistro) | Dining and food-ordering app with a Gemini-powered concierge, authentication, and real-time data synchronization. | Expo · React Native · Express · Firebase · Gemini |
 | [**CollabBoard**](https://github.com/nishigandhamali/CollabBoard) | Collaborative whiteboard with shared drawing, remote cursors, and undo/redo workflows. | React · TypeScript · Socket.IO · Express · Zustand |
